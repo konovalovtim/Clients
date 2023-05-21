@@ -1,0 +1,6 @@
+[submodule "RESTproject"]
+	path = RESTproject
+	url = https://github.com/konovalovtim/RESTproject
+[submodule "RestProjectProxy"]
+	path = RestProjectProxy
+	url = https://github.com/konovalovtim/RestProjectProxy
