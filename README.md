@@ -1,3 +1,10 @@
+## This is client database project
 
-- to clone this repo with submodules: git clone --recurse-submodules https://github.com/konovalovtim/Clients
-- to up containers: docker-compose up
+### To clone this repo with submodules:
+```sh
+git clone --recurse-submodules https://github.com/konovalovtim/Clients
+```
+### To up containers:
+```sh
+docker-compose up
+```
