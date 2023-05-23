@@ -1,4 +1,4 @@
 FROM openjdk:17
-ENV POSTGRES localhost
+EXPOSE 8081
 COPY RestProjectProxy/target/RESTproject-2.jar proxyapp.jar
 ENTRYPOINT ["java", "-jar", "proxyapp.jar"]
