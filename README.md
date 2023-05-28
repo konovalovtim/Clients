@@ -8,3 +8,7 @@ git clone --recurse-submodules https://github.com/konovalovtim/Clients
 ```sh
 docker-compose up
 ```
+### For request management:
+```sh
+http://localhost:8081/swagger-ui/index.html
+```
